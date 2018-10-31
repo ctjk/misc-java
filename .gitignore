@@ -8,3 +8,4 @@ bin/crosstab/ConsolidatedFinancialReportData.class
 .project
 .settings/org.eclipse.jdt.core.prefs
 bin/crosstab/AbstractCrosstabAttributes.class
+bin/jooqFetch/FetchPriceSettlementsJooqCommand.class
