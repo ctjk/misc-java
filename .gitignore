@@ -1,0 +1,10 @@
+
+bin/crosstab/SixColumnCrosstabAttributes.class
+bin/crosstab/CrosstabReportHelper.class
+bin/crosstab/CrosstabReportHelper$PageAndColumn.class
+bin/crosstab/Crosstabable.class
+bin/crosstab/ConsolidatedFinancialReportData.class
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+bin/crosstab/AbstractCrosstabAttributes.class
